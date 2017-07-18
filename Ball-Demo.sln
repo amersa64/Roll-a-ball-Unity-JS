@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{C8C7940F-BC8A-93EB-15E6-20713E146D47}") = "Ball-Demo", "Assembly-UnityScript.unityproj", "{91DBCE0D-50D8-49D8-410D-742EC5070E86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DBCE0D-50D8-49D8-410D-742EC5070E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DBCE0D-50D8-49D8-410D-742EC5070E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DBCE0D-50D8-49D8-410D-742EC5070E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DBCE0D-50D8-49D8-410D-742EC5070E86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
